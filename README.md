@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Alefiya, an undergrad student currently pursuing a Bachelor's degree in Computer Science 👨‍💻 from L.J. Institue of Engineering and Technology. 🚀</div>  
+### <div align="center">I'm Alefiya, an undergrad student currently pursuing a Bachelor's degree in Computer Science 👨‍💻 from L.J. Institute of Engineering and Technology. 🚀</div>  
   
 
 - 🌱 I’m currently learning ReactJS and NodeJS  

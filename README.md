@@ -4,10 +4,10 @@
 </div>  
   
 
-### <div align="center">I'm Alefiya, an undergrad student currently pursuing a Bachelor's degree in Computer Science 👨‍💻 from L.J. Institute of Engineering and Technology. 🚀</div>  
+### <div align="center">I'm Alefiya, a Master of Applied Computing student👨‍💻 at University of Windsor. 🚀</div>  
   
 
-- 🌱 I’m currently learning ReactJS and NodeJS  
+- 🌱 I’m currently learning NextJs 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
